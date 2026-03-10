@@ -17,7 +17,9 @@ O intuíto é mostrar que consigo:
 
 - Jupyter Notebook: Ambiente de desenvolvimento e documentação das análises.
 
-- Matplotlib: Biblioteca Python para a criação e impressão de gráficos
+- Matplotlib: Biblioteca Python para a criação e impressão de gráficos:
+
+  <img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/66162770-dc16-4244-9cb3-4ea4aa2c3704" />
 
 ## 📁 Estrutura do Projeto
 * /datasets: Arquivos de dados brutos utilizados na análise (CSV, Excel, etc).
