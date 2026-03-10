@@ -44,17 +44,18 @@ O projeto está dividido em frentes complementares que simulam desafios reais de
 1. Integração Regional e Performance de Vendas
 Utilizando dados de uma loja fictícia com operação nacional, este estudo focou na unificação de bases de dados fragmentadas por estados.
 
-  - Manipulação: Consolidação de múltiplos arquivos (CSV e Excel) em um único DataFrame global.
+    - Manipulação: Consolidação de múltiplos arquivos (CSV e Excel) em um único DataFrame global.
 
-  - Análise: Cálculo de métricas de desempenho por região e criação de visualizações gráficas para identificação de tendências sazonais.
+    - Análise: Cálculo de métricas de desempenho por região e criação de visualizações gráficas para identificação de tendências sazonais.
 
-  - Técnicas: merge, concat, pivot_table e bibliotecas de plotagem.
+    - Técnicas: merge, concat, pivot_table e bibliotecas de plotagem.
+    
 
 2. Análise Exploratória: Adventure Works (Microsoft)
 Aplicação de técnicas avançadas de EDA (Exploratory Data Analysis) sobre o dataset Adventure Works, referência da Microsoft para Business Intelligence.
 
-  - Foco: Limpeza profunda de dados, tratamento de tipos complexos e análise de rentabilidade.
+    - Foco: Limpeza profunda de dados, tratamento de tipos complexos e análise de rentabilidade.
 
-  - Insights: Extração de indicadores-chave de performance (KPIs) relacionados a custos, impostos e lucro líquido por categoria de produto.
+    - Insights: Extração de indicadores-chave de performance (KPIs) relacionados a custos, impostos e lucro líquido por categoria de produto.
 
-  - Técnicas: Operações aritméticas em colunas, filtragem condicional e métodos estatísticos descritivos.
+    - Técnicas: Operações aritméticas em colunas, filtragem condicional e métodos estatísticos descritivos.
